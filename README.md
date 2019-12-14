@@ -1,4 +1,3 @@
 # neuralNetwork
-Simple Neural Network with all Activation function experiement
+Simple Neural Network with all Activation function random experiement
 
-http://python3.codes/a-neural-network-in-python-part-2-activation-functions-bias-sgd-etc/
